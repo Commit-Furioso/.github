@@ -1,8 +1,8 @@
-<h1 align="center">
-  🔥 Commit Furioso
-</h1>
-
-<h4 align="center">Onde todo problema vira projeto.</h4>
+<div align="center">
+  <img src="logo.png" alt="Logo Commit Furioso" width="250" />
+  <h1>🔥 Commit Furioso</h1>
+  <p><em>Onde todo problema vira projeto.</em></p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-0D0A0F?style=for-the-badge&logo=openjdk&logoColor=EB7438" alt="Java" />
@@ -14,18 +14,29 @@
 
 ---
 
-### 💻 Sobre a Equipa
-Somos um grupo de desenvolvedores focado em resolver problemas complexos através de código limpo, estruturas de dados otimizadas e arquiteturas sólidas. Nascemos num ambiente académico de alta exigência e adotamos a filosofia de que nenhum bug sobrevive a um *commit furioso*.
+## 💻 Sobre a Equipa
+Nascemos num ambiente académico de alta exigência e adotamos a filosofia de que nenhum bug sobrevive a um *commit furioso*. Unimos metodologias ágeis e práticas sólidas de engenharia de software para entregar soluções de alto impacto.
 
-### 👨‍💻 Membros Fundadores
-- **Davi Sandro** 
-- **Nicolas Miranda**
-- **Vitória Nunes** 
-- **Leonardo Cabral**
-- **Luiz Filipe**
+## 👨‍💻 Membros & Funções
 
-  
-### 🏆 Projetos em Destaque
+| Nome | Função Principal |
+| :--- | :--- |
+| **Luiz Filipe** | Product Owner (P.O) |
+| **Nicolas Miranda** | Scrum Master |
+| **Davi Sandro Dos Santos** | Desenvolvedor Full Stack |
+| **Vitória Nunes** | Desenvolvedora |
+| **Leonardo Cabral Primos** | Quality Assurance (QA) |
+
+## 🎓 Base Académica & Competências
+A nossa robustez técnica provém de uma trajetória contínua (2025–2026). As nossas soluções são suportadas pelos seguintes pilares da Ciência da Computação:
+
+*   **Engenharia & Arquitetura:** Engenharia de Software, Análise e Projeto de Sistemas, Programação Orientada a Objetos (POO), Sistemas Cliente/Servidor, Interface Humano-Computador.
+*   **Lógica & Estruturas de Dados:** Estruturas de Dados I e II, Técnicas de Desenvolvimento de Algoritmos, Lógica Computacional, Pensamento Computacional.
+*   **Infraestrutura & Dados:** Banco de Dados, Modelagem de Dados, Redes de Computadores, Sistemas Operacionais, Organização e Arquitetura de Computadores.
+*   **Desenvolvimento Web:** Programação Web, Aplicações para Internet.
+*   **Base Analítica & Negócios:** Cálculo (I e II), Probabilidade e Estatística, Estruturas de Mercado e Tomada de Decisão.
+
+## 🏆 Projetos em Destaque
 * 🌳 [**Sistema de Solicitações (Árvore AVL)**](https://github.com/Commit-Furioso/avl-sistema-solicitacao) — Aplicação Web Fullstack com balanceamento dinâmico de nós em tempo real no backend. 
   * [🌐 Aceder ao Sistema Live](https://avl-sistema-solicitacao.onrender.com/)
 
