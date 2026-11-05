@@ -37,7 +37,10 @@ A nossa robustez técnica provém de uma trajetória contínua (2025–2026). As
 *   **Base Analítica & Negócios:** Cálculo (I e II), Probabilidade e Estatística, Estruturas de Mercado e Tomada de Decisão.
 
 ## 🏆 Projetos em Destaque
-* 🌳 [**Sistema de Solicitações (Árvore AVL)**](https://github.com/Commit-Furioso/avl-sistema-solicitacao) — Aplicação Web Fullstack com balanceamento dinâmico de nós em tempo real no backend. 
+- 📦 [**Sistema de Gestão de Produção (Árvore Genérica)**](https://github.com/Commit-Furioso/ProjetoArvoreA2) — Aplicação desenvolvida para cálculo de fórmulas de produção, explosão de materiais e implosão de custos (CRUD dinâmico com persistência), suportando múltiplos produtos (Caneta, Computador e Avião) utilizando Árvores N-árias em Java Spring Boot.  
+  * [🌐 Aceder ao Sistema Live](https://projetoarvorea2.onrender.com/)
+
+- 🌳 [**Sistema de Solicitações (Árvore AVL)**](https://github.com/Commit-Furioso/avl-sistema-solicitacao) — Aplicação Web Fullstack com balanceamento dinâmico de nós em tempo real no backend.   
   * [🌐 Aceder ao Sistema Live](https://avl-sistema-solicitacao.onrender.com/)
 
 ---
